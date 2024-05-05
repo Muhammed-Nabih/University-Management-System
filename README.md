@@ -13,3 +13,7 @@
 7- Applied advanced database techniques like Views and Stored Procedures
 
 8- Integrated Identity and Role Management with JWT Token and Refresh Token authentication
+
+__________________________________________________
+
+Unit Testing - CQRS Pattern  - Mediator Pattern - Fluent Validation With Custom Error Handling Middleware - Filters - Paginations - CRUD - Localization (Arabic to English and Visca Versa)  - Logging Errors With Serilog  - Database Operation like Views - Database Operation like Stored Procedures - Pagination Schema - Confirmation Email System With Sending Email - Reset Password System with Encryption and Decryption With Sending Email  - Identity (User,Role) - Role Manibulation - Claims Manibulation (Authorities) - Fluent Api - Jwt Token and Refresh Tokens  - Activate Expired Token and Check for its Health (Validate Token) - Generic Repository - Unit Of Work - Auto Mapper - Routing Schema - Readable Response Schema - Dependancy Injection - Solid Principles
